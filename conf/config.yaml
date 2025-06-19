@@ -1,0 +1,9 @@
+name: "zinx server"
+host: "127.0.0.1"
+port: 7777
+max_conn: 3
+version: "v1.0"
+max_packet_ize: 4096
+worker_pool_size: 10
+max_worker_task_len: 1024
+max_msg_chan_len: 10
